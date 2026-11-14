@@ -1,8 +1,8 @@
 # Rendered by the antfarm release workflow from packaging/homebrew in 2Toad/antfarm.
 # Edit the template there, not this file.
 cask "antfarm" do
-  version "0.1.0"
-  sha256 "a08377a200e16b981a34475dbb6f476889f9685e478ebadd9cdb7f6fcdd6409e"
+  version "0.1.1"
+  sha256 "cba99fb323a13a5852085032d30f13e20499d439fa15a9ca8de50e96c183ae8b"
 
   url "https://github.com/2Toad/antfarm/releases/download/v#{version}/antfarm-#{version}-macos-universal.dmg"
   name "antfarm"
